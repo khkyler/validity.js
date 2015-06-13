@@ -1,0 +1,28 @@
+{
+  "name": "validity.js",
+  "version": "1.0.0",
+  "description": "validator for javascript",
+  "main": "validity.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khkyler/validity.js.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "karim.kyler@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khkyler/validity.js/issues"
+  },
+  "homepage": "https://github.com/khkyler/validity.js",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
